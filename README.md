@@ -29,7 +29,7 @@ Let's connect and build something amazing together! 🚀
 ---
 
 ## 📬 **Let’s Connect!**  
-📩 **Email:** nishikajain199s@gmail.com  
+📩 **Email:** nishikajain199s@gmail.com
 🔗 **LinkedIn:** www.linkedin.com/in/nishika-jain-8a63a7251
 💻 **GitHub:** https://github.com/nishikajain1
 📄 **Resume:** https://drive.google.com/file/d/1zQLbh5PL3i-77FtuFsOUCYyyJC1-2-It/view?usp=drivesdk

@@ -32,6 +32,7 @@ Let's connect and build something amazing together! 🚀
 📩 **Email:** nishikajain199s@gmail.com
 🔗 **LinkedIn:** www.linkedin.com/in/nishika-jain-8a63a7251
 💻 **GitHub:** https://github.com/nishikajain1
+🌐 **Portfolio:** https://nishikajain1.github.io/portfolio/
 📄 **Resume:** https://drive.google.com/file/d/1zQLbh5PL3i-77FtuFsOUCYyyJC1-2-It/view?usp=drivesdk
 
 ---

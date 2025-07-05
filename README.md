@@ -37,7 +37,7 @@ Let's connect and build something amazing together! 🚀
 
 🌐 **Portfolio:** https://nishikajain1.github.io/portfolio/
 
-📄 **Resume:** https://drive.google.com/file/d/1zQLbh5PL3i-77FtuFsOUCYyyJC1-2-It/view?usp=drivesdk
+📄 **Resume:** https://drive.google.com/file/d/1xaxH8_vDZs0vqvnl_52mSI9gnx9Cpjpr/view?usp=sharing
 
 ---
 

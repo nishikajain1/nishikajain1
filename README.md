@@ -1,14 +1,11 @@
 <div align="center" width="50">
     
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=500&lines=Hello+👋+I+am+Nishika+Jain;Welcome+to+my+Github,Frontend+End+Developer;Aspiring+Full+-+Stack+Developer;Always+learning+new+things)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=500&lines=Hello+👋+I+am+Nishika+Jain;Welcome+to+my+Github;Frontend+End+Developer;Aspiring+Full+-+Stack+Developer;Always+learning+new+things)](https://git.io/typing-svg)
 </div>
 
 
-🚀 **Frontend Developer | Aspiring Full-Stack Developer**
 
-I’m a Frontend Developer passionate about building responsive, user-friendly, and dynamic web applications. I specialize in HTML, CSS, JavaScript, React, and engaging user experiences.
 
-Currently, I am expanding my expertise in full-stack development, continuously learning and experimenting with new technologies to enhance my skills.
 
 🔹 **Tech Stack**: HTML | CSS | JavaScript | React 
 🔹 **Currently Learning**: Backend Development & Full-Stack Technologies

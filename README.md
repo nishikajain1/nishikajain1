@@ -1,9 +1,7 @@
 <div align="center" width="50">
     
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=500&lines=Hello+👋+I+am+Nishika+Jain;Welcome+to+my+Github;Frontend+End+Developer;Aspiring+Full+-+Stack+Developer;Always+learning+new+things)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=500&lines=Hello+👋+I+am+Nishika+Jain;Welcome+to+my+Github;Frontend+End+Developer;Aspiring+Full+-+Stack+Developer;Always+try+to+explore+new+things)](https://git.io/typing-svg)
 </div>
-
-
 
 
 
@@ -41,5 +39,9 @@ Let's connect and build something amazing together! 🚀
 📄 **Resume:** https://drive.google.com/file/d/1xaxH8_vDZs0vqvnl_52mSI9gnx9Cpjpr/view?usp=sharing
 
 ---
+
+<center>
+    <img align="center" alt="snek" src="https://github.com/nishikajain1/nishikajain1/blob/output/github-contribution-grid-snake-dark.svg" />
+</center>
 
 🚀 **Excited about building, learning, and growing in tech! Let's create something amazing together.**  

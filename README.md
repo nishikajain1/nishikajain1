@@ -41,7 +41,7 @@ Let's connect and build something amazing together! 🚀
 ---
 
 <center>
-    <img align="center" alt="snek" src="https://github.com/nishikajain1/nishikajain1/blob/output/github-contribution-grid-snake-dark.svg" />
+    <img align="center" alt="snake" src="https://github.com/nishikajain1/nishikajain1/blob/output/github-contribution-grid-snake-dark.svg" />
 </center>
 
 🚀 **Excited about building, learning, and growing in tech! Let's create something amazing together.**  

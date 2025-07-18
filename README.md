@@ -1,4 +1,8 @@
-# 👋 Hey there, I'm Nishika Jain!  
+<div align="center" width="50">
+    
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=500&lines=Hello+👋+I+am+Nishika+Jain,Welcome+to+my+Github,Frontend+End+Developer;Always+learning+new+things)](https://git.io/typing-svg)
+</div>
+
 
 🚀 **Frontend Developer | Aspiring Full-Stack Developer**
 

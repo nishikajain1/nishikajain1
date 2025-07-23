@@ -59,7 +59,7 @@ Let's connect and build something amazing together! 🚀
 <hr></hr>
 
 *The Dev Journey*<br>
-**Excited about building, learning, and growing in tech! Let's create something amazing together.**  
+*Excited about building, learning, and growing in tech! Let's create something amazing together.* 
 
 <center>
     <img align="center" alt="snake" src="https://github.com/nishikajain1/nishikajain1/blob/output/github-contribution-grid-snake-dark.svg" />

@@ -27,17 +27,15 @@ Let's connect and build something amazing together! 🚀
 
 ---
 
-## 📬 **Let’s Connect!**  
-📩 **Email:** nishikajain199s@gmail.com
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="www.linkedin.com/in/nishika-jain-8a63a7251" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nishika_linkedin" height="30" width="40" /></a>
 
-🔗 **LinkedIn:** www.linkedin.com/in/nishika-jain-8a63a7251
+<a href="https://leetcode.com/u/Nishika__Jain/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nishika_leetcode" height="30" width="40" /></a>
 
-💻 **GitHub:** https://github.com/nishikajain1
+<a href="https://github.com/nishikajain1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="nishika_gfg" height="30" width="40" /></a>
 
-🌐 **Portfolio:** https://nishikajain1.github.io/portfolio/
-
-📄 **Resume:** https://drive.google.com/file/d/1xaxH8_vDZs0vqvnl_52mSI9gnx9Cpjpr/view?usp=sharing
-
+</p>
 ---
 ## 📈 GitHub Stats
 

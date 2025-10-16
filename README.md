@@ -5,7 +5,7 @@
 
 
 
-🔹 **Tech Stack**: HTML | CSS | JavaScript | React 
+🔹 **Tech Stack**: HTML | CSS | JavaScript | React.js | Nodejs 
 🔹 **Currently Learning**: Backend Development & Full-Stack Technologies
 
 Let's connect and build something amazing together! 🚀
